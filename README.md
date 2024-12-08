@@ -88,7 +88,7 @@ Your turn! Write a Snort rule that alerts when traffic is detected inbound on po
 Answer:
 alert tcp $EXTERNAL_NET any -> $HOME_NET 4444 (msg:"gg no re")
 
-Part 2: "Drop Zone" Lab
+** Part 2: "Drop Zone" Lab
 Log into the Azure firewalld machine Log in using the following credentials:
 
 Username: sysadmin
