@@ -98,6 +98,7 @@ Uninstall ufw
 Before getting started, you should verify that you do not have any instances of ufw running. This will avoid conflicts with your firewalld service. This also ensures that firewalld will be your default firewall.
 
 Run the command that removes any running instance of ufw.
+
 Answer
 sudo apt -y remove ufwD
 
