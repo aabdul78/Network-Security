@@ -11,6 +11,7 @@ Answer:
 Physical security
 
 2- Security awareness programs, BYOD policies, and ethical hiring practices are what type of security control?
+
 Answer:
 Administrative Security
 
