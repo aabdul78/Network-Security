@@ -5,16 +5,16 @@ Part 1: Review Questions
 Security Control Types
 The concept of defense in depth can be broken down into three different security control types. Identify the security control type of each set of defense tactics.
 
-Walls, bollards, fences, guard dogs, cameras, and lighting are what type of security control?
+1- Walls, bollards, fences, guard dogs, cameras, and lighting are what type of security control?
 
 Answer:
 Physical security
 
-Security awareness programs, BYOD policies, and ethical hiring practices are what type of security control?
+2- Security awareness programs, BYOD policies, and ethical hiring practices are what type of security control?
 Answer:
 Administrative Security
 
-Encryption, biometric fingerprint readers, firewalls, endpoint security, and intrusion detection systems are what type of security control?
+3- Encryption, biometric fingerprint readers, firewalls, endpoint security, and intrusion detection systems are what type of security control?
 
 Answer:
 Operational Security
